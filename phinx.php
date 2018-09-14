@@ -14,7 +14,7 @@ return
         'development' => [
             'adapter' => 'mysql',
             'host' => 'mysql',
-            'name' => 'todo_app',
+            'name' => 'app',
             'user' => 'root',
             'pass' => 'root',
             'port' => '3306',
@@ -23,7 +23,7 @@ return
         'testing' => [
             'adapter' => 'mysql',
             'host' => 'mysql',
-            'name' => 'todo_app_test',
+            'name' => 'app_test',
             'user' => 'root',
             'pass' => 'root',
             'port' => '3306',
