@@ -1,6 +1,6 @@
 <?php
 
-use SlimSkeleton\AppBuilder;
+use App\AppBuilder;
 
 return (function() {
     $container = require __DIR__ . '/container.php';

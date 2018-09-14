@@ -10,7 +10,7 @@ use Slim\Container;
 use Slim\Http\Environment;
 use Slim\Http\Request;
 use Slim\Http\Response;
-use SlimSkeleton\AppBuilder;
+use App\AppBuilder;
 
 /**
  * Class AbstractSlimTestCase

@@ -1,6 +1,6 @@
 <?php
 
-use SlimSkeleton\AppBuilder;
+use App\AppBuilder;
 
 return function(AppBuilder $appBuilder) {
 
