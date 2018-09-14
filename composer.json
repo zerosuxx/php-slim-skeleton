@@ -1,4 +1,8 @@
 {
+    "name": "zersuxx/slim-skeleton",
+    "description": "Slim skeleton app",
+    "type": "library",
+    "license": "MIT",
     "require": {
         "php": ">= 7.2",
         "robmorgan/phinx": "^0.10.6",
