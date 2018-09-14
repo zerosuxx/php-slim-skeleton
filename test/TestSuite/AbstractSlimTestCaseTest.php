@@ -15,7 +15,7 @@ class AbstractSlimTestCaseTest extends AbstractSlimTestCase
     /**
      * @test
      */
-    public function test_getApp_ReturnsAppInstance()
+    public function getApp_ReturnsAppInstance()
     {
         $app = $this->getApp();
         $this->assertEquals(1, $app->getContainer()->get('test'));
